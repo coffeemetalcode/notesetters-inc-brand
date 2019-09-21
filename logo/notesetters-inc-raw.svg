@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="231.94mm"
-   height="30.683001mm"
-   viewBox="0 0 231.94 30.683002"
+   width="255.27299mm"
+   height="30mm"
+   viewBox="0 0 255.27299 30.000001"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="notesetters-inc-raw.svg">
   <defs
      id="defs2" />
@@ -26,16 +26,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="419.54704"
+     inkscape:cx="250.85156"
      inkscape:cy="-27.518126"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
-     inkscape:window-width="1920"
-     inkscape:window-height="1025"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-width="2000"
+     inkscape:window-height="1046"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="true" />
   <metadata
@@ -54,17 +54,18 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-266.31698)">
+     transform="translate(0,-266.99998)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:33.86666489px;line-height:1.25;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Heavy Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-1.4562666"
-       y="291.71677"
-       id="text12"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.86338043px;line-height:1.25;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.26455766"
+       x="-2.3365731"
+       y="291.34021"
+       id="text12"
+       transform="scale(1.0000985,0.99990152)"><tspan
          sodipodi:role="line"
          id="tspan10"
-         x="-1.4562666"
-         y="291.71677"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:33.86666489px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Heavy Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#aa0000;fill-opacity:1;stroke-width:0.26458332">Notesetters, Inc.</tspan></text>
+         x="-2.3365731"
+         y="291.34021"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.86338043px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#aa0000;fill-opacity:1;stroke-width:0.26455766">Notesetters, Inc.</tspan></text>
   </g>
 </svg>
